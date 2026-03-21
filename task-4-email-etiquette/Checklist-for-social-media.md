@@ -1,11 +1,9 @@
 # Social Media Do's and Don'ts for College Students
 
-A simple checklist to help you use social media responsibly
-and protect yourself online.
 
----
 
-## ✅ DO's
+
+##  DO's
 
 1. Keep your profile set to **private** on personal accounts
          so only people you trust can see your content.
@@ -27,7 +25,7 @@ and protect yourself online.
 
 ---
 
-## ❌ DON'Ts
+##  DON'Ts
 
 1. **Do not share your financial status online** — this
         includes salary, pocket money, expensive purchases,
